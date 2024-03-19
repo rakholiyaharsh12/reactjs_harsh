@@ -1,0 +1,78 @@
+.body {
+margin: 0;}
+
+ a:first-child{         /*home*/
+    background-color: yellow;
+    color: red;
+}
+
+a:nth-last-of-type(2){        /* contect*/
+    background-color: yellow;
+    color: red;
+}
+/* h1:nth-of-type(2)
+{
+    background-color: yellow;
+    color: red;
+    
+} */
+/* div:first-{
+    background-color: yellow;
+    color: red;
+} */
+
+/* h1:first-child(){
+background-color: yellow;
+color: red;
+} */
+div h1:first-child{      /* 7,8,10,19  */
+    background-color: yellow;
+    color: red;
+}
+
+
+span p:last-of-type{         /* 14,15,*/
+    background-color: yellow;
+    color: red;
+} 
+input{
+    background-color: yellow;
+    color: red;
+}
+.head {            /*12,*/
+    background-color: yellow;
+    color: red;
+}
+body h1:nth-child(3){    /* 3 */
+    background-color: yellow;
+    color: red;
+}
+
+body h1:nth-child(6){      /*4*/
+    background-color: yellow;
+    color: red;
+}
+body h1:nth-child(14){      /*13*/
+    background-color: yellow;
+    color: red;
+}
+/* h1:nth-child(4){      /*17*/
+     /* background-color: yellow;
+    color: red;
+}   */
+/* section h1:nth-last-child(1){      /*18*/
+    /* background-color: yellow;
+    color: red;
+}  */
+div:nth-last-of-type() h1:nth-child(2){      /*11*/
+    background-color: yellow;
+    color: red;
+}
+body h1:last-of-type{       /* 21*/
+    background-color: yellow;
+    color: red;
+}
+body h1:nth-child(19){      /*20*/
+    background-color: yellow;
+    color: red;
+}

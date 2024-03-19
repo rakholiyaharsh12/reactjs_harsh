@@ -1,0 +1,24 @@
+.maindiv{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(53, 2, 16);
+    border-radius: 100px;
+    animation-name: move;
+    animation-duration: 2s;
+    animation-delay: 5s;
+    margin: 100px;
+    animation-iteration-count: infinite;
+}
+
+@keyframes move{
+    0%{
+        transform: translate(0px);
+    }
+    50%{
+        transform: translate(500px);
+        border: 10px  solid rgb(193, 71, 193);
+    }
+    100%{
+        transform: translate(1000px);
+    }
+}
