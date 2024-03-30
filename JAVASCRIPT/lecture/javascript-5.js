@@ -113,7 +113,7 @@ Switch Statements
 
  /* Switch Statements */
 
-// let book = "maths";
+// let book = "gujrati";
 
 // switch(book)
 // {
