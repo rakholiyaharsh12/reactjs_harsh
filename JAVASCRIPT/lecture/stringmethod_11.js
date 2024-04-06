@@ -14,9 +14,9 @@
 // console.log(str4);//     String {0: "t", 1: "h", 2: "i", ...}
 // console.log(typeof str4); // object
  
-// String Methods--------------------
+// String Methods--------------------   
 
-CharacterData(nymber);
+// CharacterData(nymber);
 
 // {
 //     let str = "thid id mmorning upon us!";
@@ -107,7 +107,7 @@ CharacterData(nymber);
 /* Javascript string include Method */
 
 // {
-//     let str = "Hello! Javascript undefined Hello Hello"
+//    let  str = "Hello! Javascript undefined Hello Hello"
 //     let includeStr = str.includes("Hello")
 //     let includeStr1 = str.includes("Hello" , 0)
 
@@ -118,6 +118,6 @@ CharacterData(nymber);
 /* Javascript string length method */
 
 // {
-//     let str = " Hello Java! "
-//     console.log(str.length); 
-// }
+//         let str = " Hello Java! "
+//         console.log(str.length); 
+//     }
